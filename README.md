@@ -2,6 +2,7 @@
 
 - ### [The code for the project](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh?usp=sharing).
 - ### [We filmed a short video (5 minutes) presenting our findings](https://www.youtube.com/watch?v=KKw8iO047jE), and the [written results can be seen here](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh#scrollTo=JkkH2a8nokQN).
+- ### [My certificate of completion](https://github.com/ivanorsolic/NeuromatchAcademy/blob/master/Certificate%20of%20completion.pdf).
 
 # What is Neuromatch Academy?
 

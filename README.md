@@ -4,7 +4,7 @@ The [Neuromatch Academy](https://neuromatch.io/academy) was an online computatio
 
 #### **The Organizers and Sponsors:**
 
-![image-20200823163035836](images/organizers and sponsors.png)
+![image-20200823163035836](./images/organizers and sponsors.png)
 
 The entire syllabus can be [found here](https://github.com/NeuromatchAcademy/course-content), and the entire Academy is open source, with all of the [lectures and tutorials](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials) available on YouTube and GitHub.
 

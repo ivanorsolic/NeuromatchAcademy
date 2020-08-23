@@ -167,9 +167,7 @@ Which led us to **our scientific question**.
 
 We wanted to analyse single-trial population activity using Hidden Markov Models (HMMs) to investigate if neural activity unfolds as state sequences.
 
-If it did
-
-, we would compare those discovered state sequences for different stimuli, using neural data from a mouse trained on a visual discrimination task, and compare the results across two or more brain regions and for different behaviors (correct and incorrect decisions).
+If it did, we would compare those discovered state sequences for different stimuli, using neural data from a mouse trained on a visual discrimination task, and compare the results across two or more brain regions and for different behaviors (correct and incorrect decisions).
 
 ## Our predictions
 

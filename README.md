@@ -1,3 +1,8 @@
+## Links:
+
+- ### [The code for the project](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh?usp=sharing).
+- ### [We filmed a short video (5 minutes) presenting our findings](https://www.youtube.com/watch?v=KKw8iO047jE), and the [written results can be seen here](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh#scrollTo=JkkH2a8nokQN).
+
 # What is Neuromatch Academy?
 
 The [Neuromatch Academy](https://neuromatch.io/academy) was an online computational neuroscience summer school which covered everything from introduction to modelling, statistics to machine learning/deep learning.

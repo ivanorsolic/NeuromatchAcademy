@@ -129,7 +129,7 @@ The dataset was spiking neural data collected using [large-scale electrode array
 
 The final project presentation (5 minutes) can be seen below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKw8iO047jE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Project video](https://img.youtube.com/vi/KKw8iO047jE/0.jpg)](http://www.youtube.com/watch?v=KKw8iO047jE)
 
 ## The background of the idea
 

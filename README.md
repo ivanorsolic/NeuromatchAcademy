@@ -267,7 +267,7 @@ Based on our background research, we hypothesized that neural activity in some c
 
 That is called the **Markov** or **Markovian property** and the whole state sequence can be described by a chain structure called a **Markov Chain**:
 
-<img src=" https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W2D3_DecisionMaking/static/W2D3_Tutorial2_markov_chain_diagram.png?raw=true" alt="Markov chain drawing" width="400"/>
+![Markov chain drawing](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W2D3_DecisionMaking/static/W2D3_Tutorial2_markov_chain_diagram.png?raw=true")
 
 If we are at the state **i** at time **t-1**, and we denote the probability of switching from state **i** to state **j** at the next time point **t** as **Aij**, then the distribution at the time **t** can be calculated using only the probabilities for time **t-1** and the transition matrix:
 

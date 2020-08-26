@@ -1,8 +1,8 @@
 ## Links:
 
-- ### [The code for the project](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh?usp=sharing).
-- ### [We filmed a short video (5 minutes) presenting our findings](https://www.youtube.com/watch?v=KKw8iO047jE), and the [written results can be seen here](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh#scrollTo=JkkH2a8nokQN).
-- ### [My certificate of completion](https://github.com/ivanorsolic/NeuromatchAcademy/blob/master/Certificate%20of%20completion.pdf).
+- #### [The code for the project](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh?usp=sharing).
+- #### [We filmed a short video (5 minutes) presenting our findings](https://www.youtube.com/watch?v=KKw8iO047jE), and the [written results can be seen here](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh#scrollTo=JkkH2a8nokQN).
+- #### [My certificate of completion](https://github.com/ivanorsolic/NeuromatchAcademy/blob/master/Certificate%20of%20completion.pdf).
 
 # What is Neuromatch Academy?
 
@@ -10,7 +10,7 @@ The [Neuromatch Academy](https://neuromatch.io/academy) was an online computatio
 
 #### **The Organizers and Sponsors:**
 
-![image-20200823163035836](images/organizersandsponsors.png)
+![image-20200823163035836](images/organizersandsponsors.png){:height="50%" width="50%"}
 
 The entire syllabus can be [found here](https://github.com/NeuromatchAcademy/course-content), and the entire Academy is open source, with all of the [lectures and tutorials](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials) available on YouTube and GitHub.
 

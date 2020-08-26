@@ -10,7 +10,7 @@ The [Neuromatch Academy](https://neuromatch.io/academy) was an online computatio
 
 #### **The Organizers and Sponsors:**
 
-![image-20200823163035836](images/organizersandsponsors.png){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/ivanorsolic/NeuromatchAcademy/master/images/organizersandsponsors.png" width="50%" height="50%">
 
 The entire syllabus can be [found here](https://github.com/NeuromatchAcademy/course-content), and the entire Academy is open source, with all of the [lectures and tutorials](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials) available on YouTube and GitHub.
 
@@ -91,7 +91,7 @@ When I applied, I had no idea that I'd learn such a broad amount of topics in su
 
   - We went through all of the research and modelling steps, and came up with a mathematical model that explained why the illusion occurs, given the vestibular signal from the inner ear and the visual signal from the eyes:
 
-    <img src="https://raw.githubusercontent.com/NeuromatchAcademy/course-content/master/tutorials/W1D2_ModelingPractice/static/NMA-W1D2-fig06.png" alt="how-to-model process from Blohm et al 2019" style="zoom: 67%;" />
+    <img src="https://raw.githubusercontent.com/NeuromatchAcademy/course-content/master/tutorials/W1D2_ModelingPractice/static/NMA-W1D2-fig06.png" alt="how-to-model process from Blohm et al 2019"  width="50%" height="50%">
 
 
 
@@ -203,7 +203,7 @@ We would mainly focus on correlating the neural activity with behaviour.
 - We would then fit the HMM to data from the brain areas we've chosen
 - Finally, as a control, we would compare the results (detected states) to behavioural data and simulated data
 
-<img src="images/idea.png" alt="idea" style="zoom:67%;" />
+<img src="images/idea.png" alt="idea"  width="50%" height="50%">
 
 ## The dataset
 

@@ -1,3 +1,5 @@
+## Repo containing computational neuroscience notebooks and a project detecting latent states in neural activity using Hidden Markov Models on spiking data, made during the Neuromatch Academy 2020. 
+
 ## Links:
 
 - #### [The code for the project](https://colab.research.google.com/drive/1EFSXyDcG-3MeDJ1ytWFrZXNomaK1CNMh?usp=sharing).
